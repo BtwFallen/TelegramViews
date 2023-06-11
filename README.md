@@ -1,5 +1,5 @@
 # In this example we are sending to channel @tviews post number ( 4 )
-# e.g: https://t.me/tviews/4
+# e.g: https://t.me/FallenStatus/4
 
 # Auto Scraping Mode ( Auto Proxy [ PROXYLESS ] MODE )
 tviews.py --mode auto --channel tviews --post 4
