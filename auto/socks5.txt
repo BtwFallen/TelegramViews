@@ -1,6 +1,6 @@
 http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5
-    https://openproxy.space/list/socks5
+https://openproxy.space/list/socks5
 https://openproxylist.xyz/socks5.txt
 https://proxyspace.pro/socks5.txt
 https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/SOCKS5.txt
